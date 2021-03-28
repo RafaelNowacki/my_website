@@ -25,7 +25,7 @@ SECRET_KEY = '**sn#27rc2ri+$v_#ytj!*e40z97jmr6f)uu&rtw0th)t!#48x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.ralphnowacki.com']
 
 
 # Application definition
